@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Padhai Setu — CBSE Classes 6–10</title>
+  <meta name="description" content="Affordable, interactive courses for CBSE Classes 6–10 — Maths, Science, English, SST, Hindi. Just ₹51 per course launch offer."/>
+  <meta name="google-site-verification" content="PASTE_YOUR_TOKEN_HERE" />
+  <meta name="theme-color" content="#8b5cf6"/>
+  <meta property="og:title" content="Padhai Setu — CBSE Classes 6–10"/>
+  <meta property="og:description" content="Interactive notes, quizzes, worksheets, PYQs, and mock tests at ₹51."/>
+  <meta property="og:image" content="assets/og-image.png"/>
+  <link rel="icon" href="assets/favicon.ico"/>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {document.documentElement.classList.add('dark')}</script>
+  <style>
+    .glass { backdrop-filter: saturate(180%) blur(12px); background: rgba(255,255,255,0.72); }
+    .dark .glass { background: rgba(17,24,39,0.55); }
+    .gradient { background-image:
+      radial-gradient(20rem 20rem at 20% 10%, rgba(139,92,246,.25), transparent 60%),
+      radial-gradient(24rem 24rem at 80% 20%, rgba(236,72,153,.25), transparent 60%),
+      radial-gradient(20rem 20rem at 30% 80%, rgba(16,185,129,.25), transparent 60%),
+      linear-gradient(180deg, #ffffff, #f8fafc);
+    }
+    .dark .gradient { background-image:
+      radial-gradient(20rem 20rem at 20% 10%, rgba(139,92,246,.15), transparent 60%),
+      radial-gradient(24rem 24rem at 80% 20%, rgba(236,72,153,.15), transparent 60%),
+      radial-gradient(20rem 20rem at 30% 80%, rgba(16,185,129,.15), transparent 60%),
+      linear-gradient(180deg, #0b1220, #0b1220);
+    }
+    .brand-btn { background-image: linear-gradient(90deg, #8b5cf6, #ec4899, #f97316, #10b981); color:white; }
+  </style>
+
+</head>
+<body class="gradient text-gray-900 dark:text-gray-100">
+
+  <header class="sticky top-0 z-50 bg-white/70 dark:bg-gray-900/70 glass border-b border-gray-100 dark:border-gray-800">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+      <a href="index.html" class="flex items-center gap-3">
+        <img src="assets/logo.svg" alt="Padhai Setu" class="h-10 rounded-xl shadow"/>
+      </a>
+      <nav class="hidden md:flex items-center gap-6 text-sm font-medium">
+        <a href="pages/courses.html" class="hover:text-fuchsia-600">Courses</a>
+        <a href="pages/notes.html" class="hover:text-fuchsia-600">Notes</a>
+        <a href="pages/worksheets.html" class="hover:text-fuchsia-600">Worksheets</a>
+        <a href="pages/pyqs.html" class="hover:text-fuchsia-600">Past Papers</a>
+        <a href="pages/tests.html" class="hover:text-fuchsia-600">Online Tests</a>
+        <a href="pages/contact.html" class="hover:text-fuchsia-600">Contact</a>
+      </nav>
+      <a href="pages/courses.html#buy" class="px-4 py-2 rounded-xl shadow brand-btn">Get started ₹51</a>
+    </div>
+  </header>
+
+<main class="max-w-7xl mx-auto px-4 py-12">
+  <h1 class="text-4xl font-extrabold mb-2">Courses</h1>
+  <p class="text-gray-600 dark:text-gray-300 mb-6">All courses priced at <strong>₹51</strong> (launch). Choose class → subject → chapter.</p>
+  <div class="mb-6 flex items-center gap-3 flex-wrap">
+    <div id="classTabs" class="flex gap-2 flex-wrap"></div>
+    <select id="subjectSel" class="p-3 rounded-xl border dark:bg-gray-900 dark:border-gray-700">
+      <option>Maths</option><option>Science</option><option>English</option><option>Social Science</option><option>Hindi</option>
+    </select>
+    <input id="q" placeholder="Search chapter…" class="w-full md:w-80 p-3 rounded-xl border dark:bg-gray-900 dark:border-gray-700" oninput="render()"/>
+    <a id="buy" href="#buy" class="px-4 py-2 rounded-xl brand-btn">How to Buy</a>
+  </div>
+  <div id="chapters" class="grid md:grid-cols-2 gap-4"></div>
+  <section id="buy" class="mt-12 glass p-6 rounded-2xl">
+    <h2 class="text-2xl font-bold mb-2">How to Enrol</h2>
+    <p class="text-sm mb-3">Pay ₹51 via UPI and send the screenshot on WhatsApp with your class & subject. Access will be shared shortly.</p>
+    <img src="../assets/phonepe-qr.png" class="rounded-xl border w-56"/>
+    <ul class="mt-3 text-sm list-disc pl-5">
+      <li>WhatsApp: <a class="text-fuchsia-600" href="https://wa.me/917880481158">+91 78804 81158</a></li>
+      <li>Email: <a class="text-fuchsia-600" href="mailto:pa.kishor.sing.gaur@gmail.com">pa.kishor.sing.gaur@gmail.com</a></li>
+    </ul>
+  </section>
+</main>
+
+  <footer class="mt-20 border-t border-gray-100 dark:border-gray-800">
+    <div class="max-w-7xl mx-auto px-4 py-8 grid md:grid-cols-3 gap-8 text-sm">
+      <div>
+        <img src="assets/logo.svg" class="h-10 mb-3" alt="Padhai Setu"/>
+        <p class="text-gray-600 dark:text-gray-300">Affordable, interactive learning for Classes 6–10. Launch price ₹51 per course.</p>
+      </div>
+      <div>
+        <h3 class="font-semibold mb-2">Explore</h3>
+        <ul class="space-y-1">
+          <li><a href="pages/courses.html" class="hover:underline">Courses</a></li>
+          <li><a href="pages/notes.html" class="hover:underline">Notes</a></li>
+          <li><a href="pages/worksheets.html" class="hover:underline">Worksheets</a></li>
+          <li><a href="pages/pyqs.html" class="hover:underline">Past Papers</a></li>
+          <li><a href="pages/tests.html" class="hover:underline">Online Tests</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="font-semibold mb-2">Connect</h3>
+        <ul class="space-y-1">
+          <li>WhatsApp: <a href="https://wa.me/917880481158" class="text-fuchsia-600">+91 78804 81158</a></li>
+          <li>Email: <a href="mailto:pa.kishor.sing.gaur@gmail.com" class="text-fuchsia-600">pa.kishor.sing.gaur@gmail.com</a></li>
+          <li>YouTube: <a href="https://youtube.com/@motivocean_akku?si=gN_3D4NUOnOAkROl" class="text-fuchsia-600">@motivocean_akku</a></li>
+          <li>Instagram • Facebook • Snapchat — <em>add soon</em></li>
+        </ul>
+      </div>
+    </div>
+    <div class="text-center text-xs text-gray-500 py-4">© 2025 Padhai Setu • Built for students of Classes 6–10</div>
+  </footer>
+
+<script>
+let data=[], currentClass=10;
+const classTabs = document.getElementById('classTabs');
+for (let c=6;c<=10;c++) {
+  const a=document.createElement('button');
+  a.textContent='Class '+c;
+  a.className='px-4 py-2 rounded-xl border hover:shadow '+(c===currentClass?'brand-btn':'bg-white/70 dark:bg-gray-900/60');
+  a.onclick=()=>{currentClass=c; render();[...classTabs.children].forEach(x=>x.className='px-4 py-2 rounded-xl border hover:shadow bg-white/70 dark:bg-gray-900/60'); a.className='px-4 py-2 rounded-xl border hover:shadow brand-btn';};
+  classTabs.appendChild(a);
+}
+const subjectSel = document.getElementById('subjectSel');
+fetch('../assets/courses.json').then(r=>r.json()).then(j=>{ data=j; render(); });
+function card(title, id) {
+  return `
+  <article class="border rounded-2xl p-4 glass">
+    <h3 class="font-semibold">${title}</h3>
+    <div class="mt-2 grid grid-cols-2 sm:grid-cols-4 gap-2 text-sm">
+      <a href="ncert.html?course=${id}" class="px-2 py-1 rounded-lg border">NCERT Text</a>
+      <a href="notes.html?course=${id}" class="px-2 py-1 rounded-lg border">Easy Notes</a>
+      <a href="worksheets.html?course=${id}" class="px-2 py-1 rounded-lg border">Practice</a>
+      <a href="tests.html?course=${id}" class="px-2 py-1 rounded-lg border">MCQ Quiz</a>
+    </div>
+  </article>`;
+}
+function render(){
+  const q=(document.getElementById('q').value||'').toLowerCase();
+  const subj=subjectSel.value;
+  const subset=data.filter(c=>c.class===currentClass && c.subject===subj)[0];
+  const list=(subset?.chapters||[]).filter(t=>t.toLowerCase().includes(q));
+  document.getElementById('chapters').innerHTML = list.map((t,i)=>card(t, subset.id+'-ch'+(i+1))).join('') || '<div class="text-gray-500">No chapters yet.</div>';
+}
+subjectSel.onchange=render;
+</script>
+</body>
+</html>

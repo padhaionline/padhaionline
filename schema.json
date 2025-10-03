@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Padhai Setu",
+  "url": "https://<YOUR-USERNAME>.github.io/padhai-setu",
+  "sameAs": [
+    "https://youtube.com/@motivocean_akku"
+  ],
+  "email": "pa.kishor.sing.gaur@gmail.com",
+  "telephone": "+91-7880481158",
+  "description": "Affordable interactive courses for CBSE Classes 6\u201310.",
+  "slogan": "AAJA MERE BHAI, KAR LE PADHAI."
+}

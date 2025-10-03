@@ -1,0 +1,477 @@
+[
+  {
+    "id": "class6-maths",
+    "class": 6,
+    "subject": "Maths",
+    "title": "Class 6 Maths \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class6-science",
+    "class": 6,
+    "subject": "Science",
+    "title": "Class 6 Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class6-english",
+    "class": 6,
+    "subject": "English",
+    "title": "Class 6 English \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class6-socialscience",
+    "class": 6,
+    "subject": "Social Science",
+    "title": "Class 6 Social Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class6-hindi",
+    "class": 6,
+    "subject": "Hindi",
+    "title": "Class 6 Hindi \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class7-maths",
+    "class": 7,
+    "subject": "Maths",
+    "title": "Class 7 Maths \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class7-science",
+    "class": 7,
+    "subject": "Science",
+    "title": "Class 7 Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class7-english",
+    "class": 7,
+    "subject": "English",
+    "title": "Class 7 English \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class7-socialscience",
+    "class": 7,
+    "subject": "Social Science",
+    "title": "Class 7 Social Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class7-hindi",
+    "class": 7,
+    "subject": "Hindi",
+    "title": "Class 7 Hindi \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class8-maths",
+    "class": 8,
+    "subject": "Maths",
+    "title": "Class 8 Maths \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class8-science",
+    "class": 8,
+    "subject": "Science",
+    "title": "Class 8 Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class8-english",
+    "class": 8,
+    "subject": "English",
+    "title": "Class 8 English \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class8-socialscience",
+    "class": 8,
+    "subject": "Social Science",
+    "title": "Class 8 Social Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class8-hindi",
+    "class": 8,
+    "subject": "Hindi",
+    "title": "Class 8 Hindi \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class9-maths",
+    "class": 9,
+    "subject": "Maths",
+    "title": "Class 9 Maths \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class9-science",
+    "class": 9,
+    "subject": "Science",
+    "title": "Class 9 Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class9-english",
+    "class": 9,
+    "subject": "English",
+    "title": "Class 9 English \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class9-socialscience",
+    "class": 9,
+    "subject": "Social Science",
+    "title": "Class 9 Social Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class9-hindi",
+    "class": 9,
+    "subject": "Hindi",
+    "title": "Class 9 Hindi \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class10-maths",
+    "class": 10,
+    "subject": "Maths",
+    "title": "Class 10 Maths \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class10-science",
+    "class": 10,
+    "subject": "Science",
+    "title": "Class 10 Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class10-english",
+    "class": 10,
+    "subject": "English",
+    "title": "Class 10 English \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class10-socialscience",
+    "class": 10,
+    "subject": "Social Science",
+    "title": "Class 10 Social Science \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  },
+  {
+    "id": "class10-hindi",
+    "class": 10,
+    "subject": "Hindi",
+    "title": "Class 10 Hindi \u2014 NCERT Sprint",
+    "price": 51,
+    "chapters": [
+      "Chapter 1 \u2014 Placeholder",
+      "Chapter 2 \u2014 Placeholder",
+      "Chapter 3 \u2014 Placeholder",
+      "Chapter 4 \u2014 Placeholder",
+      "Chapter 5 \u2014 Placeholder",
+      "Chapter 6 \u2014 Placeholder",
+      "Chapter 7 \u2014 Placeholder",
+      "Chapter 8 \u2014 Placeholder",
+      "Chapter 9 \u2014 Placeholder",
+      "Chapter 10 \u2014 Placeholder"
+    ]
+  }
+]
