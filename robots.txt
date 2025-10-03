@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://<YOUR-USERNAME>.github.io/padhai-setu/sitemap.xml
+Sitemap: https://padhaionline.github.io/padhaionline/sitemap.xml
